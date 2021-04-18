@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panoschatzinikolaou
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Cypress end-to-end testing and React.js
+- 🌱 I’m currently learning Cypress end-to-end testing and Chart.js
 
 <!---
 panoschatzinikolaou/panoschatzinikolaou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
